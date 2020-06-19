@@ -1,0 +1,130 @@
+[
+  {
+    "id": "b7cb38b4-82d2-40f0-b038-d11734ad354a",
+    "data": [
+      {
+        "text": "goa",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dad5523d-008b-4e57-aac3-31d3041b187d",
+    "data": [
+      {
+        "text": "chennai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ade8072-8299-4e6f-b151-abcdd2d15595",
+    "data": [
+      {
+        "text": "mumbai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bd5d74f-5027-43b0-9309-0ad0d56edd70",
+    "data": [
+      {
+        "text": "delhi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "815de470-7844-496e-8c57-59437a9f5d1e",
+    "data": [
+      {
+        "text": "Nope",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10d3986c-f3f1-483f-ad9a-40559519d37c",
+    "data": [
+      {
+        "text": "Nah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ded96d3-72b8-424b-8ef0-4e934ec21998",
+    "data": [
+      {
+        "text": "Not really",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e723744-abb3-4561-a1de-8de92ce0d023",
+    "data": [
+      {
+        "text": "not required",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e09d0d7d-26ac-4341-918d-4f1eae79d707",
+    "data": [
+      {
+        "text": "negative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82190f5a-bdcd-4aa9-aa34-178b7ac9752e",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "id": "3cce8141-c510-4df6-93d6-22d74b92bec6",
+  "name": "BookFlights - Payment",
+  "auto": true,
+  "contexts": [
+    "flight_context",
+    "selectclass_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BookFlights-Payment",
+      "affectedContexts": [
+        {
+          "name": "flight_context",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "bookhotel_no",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "bookhotel_yes",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "84a2e6c4-a122-4d23-ae18-87035db31f08",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "pay",
+          "value": "$pay",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please complete payment by clicking here."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

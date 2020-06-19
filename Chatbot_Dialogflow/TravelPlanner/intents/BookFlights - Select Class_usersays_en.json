@@ -1,0 +1,66 @@
+[
+  {
+    "id": "735dd078-97e7-4760-b380-f98e78457b97",
+    "data": [
+      {
+        "text": "make it ",
+        "userDefined": false
+      },
+      {
+        "text": "business",
+        "alias": "flight_class",
+        "meta": "@flight_class",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9ded9a1-e15d-44da-9a61-8012d7ee65c2",
+    "data": [
+      {
+        "text": "Go for ",
+        "userDefined": false
+      },
+      {
+        "text": "economy",
+        "alias": "flight_class",
+        "meta": "@flight_class",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93e065b4-d221-46cf-9ca4-b0ab3d864fdd",
+    "data": [
+      {
+        "text": "Business",
+        "alias": "flight_class",
+        "meta": "@flight_class",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50a1639b-e90a-47ab-b0c4-2be8884941b2",
+    "data": [
+      {
+        "text": "Economy",
+        "alias": "flight_class",
+        "meta": "@flight_class",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

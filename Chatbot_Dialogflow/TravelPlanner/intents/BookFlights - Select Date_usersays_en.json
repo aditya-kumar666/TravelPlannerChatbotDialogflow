@@ -1,0 +1,114 @@
+[
+  {
+    "id": "bf689f63-6a80-4820-a54b-b4c1dd185030",
+    "data": [
+      {
+        "text": "Sunday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "187522b7-a18e-4397-8ffe-80762ce0e31f",
+    "data": [
+      {
+        "text": "make it on 10-29-2020",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1126bda3-0023-40ef-8d3a-d176ce11066f",
+    "data": [
+      {
+        "text": "Book on ",
+        "userDefined": false
+      },
+      {
+        "text": "10/23/2020",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e0dbbf2-c0da-49aa-896d-8e222879fd35",
+    "data": [
+      {
+        "text": "10/29/2020",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c694ee9-addc-4053-85f9-5b6c68bccda3",
+    "data": [
+      {
+        "text": "10-05-2021",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3e57d7c-585c-4ea5-a051-f14a6efcbcba",
+    "data": [
+      {
+        "text": "26/12/2020",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8190e3a3-7346-4ddf-b808-fc41ff349c54",
+    "data": [
+      {
+        "text": "Tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e9f350b-7df5-44b2-814f-569c4ecaa3c5",
+    "data": [
+      {
+        "text": "Friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

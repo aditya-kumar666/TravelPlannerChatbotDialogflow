@@ -1,0 +1,50 @@
+[
+  {
+    "id": "026eff6a-6121-40f2-b63e-b7088a9a9619",
+    "data": [
+      {
+        "text": "locate me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03bd5658-c470-47f0-a35f-980a758eb47a",
+    "data": [
+      {
+        "text": "Auto detect loc",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a27beaf-ecd4-4918-94d5-bacc4c64554f",
+    "data": [
+      {
+        "text": "Auto detect",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13c62048-f7e2-42f7-93cd-90483545f743",
+    "data": [
+      {
+        "text": "Auto detect source loc for flight booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

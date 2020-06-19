@@ -1,0 +1,72 @@
+{
+  "id": "26ec1e9c-8bda-44f9-bb09-c332eb11355c",
+  "name": "BookFlights - Select Today - ChangeDestination",
+  "auto": true,
+  "contexts": [
+    "flight_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BookFlights-SelectToday-ChangeDestination",
+      "affectedContexts": [
+        {
+          "name": "flight_context",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c7091a7f-fe4e-40ef-a3e8-581b67e05b1e",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#flight_context.geo-city",
+          "isList": false
+        },
+        {
+          "id": "b100193d-77b6-40fd-a932-6f069c138bce",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city1",
+          "value": "$geo-city1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the destination of flight?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

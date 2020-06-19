@@ -1,0 +1,87 @@
+{
+  "id": "92ad7717-4b0d-4fed-a340-bc4e33c1c637",
+  "name": "BookFlights - Select Seat",
+  "auto": true,
+  "contexts": [
+    "flight_context",
+    "selectclass_context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "flight_context",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "bookhotel_no",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "bookhotel_yes",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2edc26fc-8823-4689-bbd5-16a6862cd2be",
+          "required": true,
+          "dataType": "@flight_seat",
+          "name": "flight_seat",
+          "value": "$flight_seat",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Awesome, please select your seat for flight from #flight_context.geo-city to #flight_context.geo-city1 for #flight_context.flight_class"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b72aeb54-56a8-4972-bd76-c9c1fa8c73da",
+          "required": true,
+          "dataType": "@flight_pay",
+          "name": "pay",
+          "value": "$pay",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please complete payment by clicking here"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

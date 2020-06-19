@@ -1,0 +1,9 @@
+{
+  "id": "c0ec5bb6-0cd9-4df0-a18c-e0a6b477bbfa",
+  "name": "flight_pay",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

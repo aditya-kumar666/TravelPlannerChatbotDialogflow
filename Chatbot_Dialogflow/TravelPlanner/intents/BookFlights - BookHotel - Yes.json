@@ -1,0 +1,79 @@
+{
+  "id": "db165bd4-b472-41fe-a70b-8f3346b0afca",
+  "name": "BookFlights - BookHotel - Yes",
+  "auto": true,
+  "contexts": [
+    "flight_context",
+    "bookhotel_yes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e7b1b2dd-f564-4490-95a1-09ae5ddff797",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#flight_context.geo-city1",
+          "isList": false
+        },
+        {
+          "id": "c7b77429-64fb-4190-bf8f-f7cf2d02f823",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "#flight_context.date",
+          "isList": false
+        },
+        {
+          "id": "ffa6f0a6-a220-4a17-8016-0e544b9ec34b",
+          "required": true,
+          "dataType": "@hotel_names",
+          "name": "hotel_name",
+          "value": "$hotel_name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please select from below hotels."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

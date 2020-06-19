@@ -1,0 +1,184 @@
+[
+  {
+    "id": "25f33ff7-9daf-4af8-adf4-06c14e79c7e4",
+    "data": [
+      {
+        "text": "book a hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ab67208-78b8-4e5f-b685-7758826966c2",
+    "data": [
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " book hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c32c0bce-cfd1-443e-9490-84ebe8b59839",
+    "data": [
+      {
+        "text": "hotel on ",
+        "userDefined": false
+      },
+      {
+        "text": "tuesday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "912097b3-b080-495b-a04b-9b4d5f70cb6a",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "chennai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29b03c82-43dd-4a32-b8ee-7a1927c7374f",
+    "data": [
+      {
+        "text": "reserve hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4a90bec-c1de-4f0e-9d4d-19069f4c649f",
+    "data": [
+      {
+        "text": "reserve hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "goa",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2a177a5-3531-4dfb-8bee-1535591b289a",
+    "data": [
+      {
+        "text": "reserve hotel for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5aed06b-ed2f-458e-a4bb-3b6f906d5ad3",
+    "data": [
+      {
+        "text": "Book hotel hyatt ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6736781-7bd9-4a55-a90a-30be0f698d81",
+    "data": [
+      {
+        "text": "Reserve Taj ",
+        "userDefined": false
+      },
+      {
+        "text": "this Saturday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3e9a05a-1b58-454f-9fcd-ff32a34a84c2",
+    "data": [
+      {
+        "text": "book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

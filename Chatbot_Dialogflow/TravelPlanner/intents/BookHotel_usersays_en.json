@@ -1,0 +1,290 @@
+[
+  {
+    "id": "bf210e8c-5303-4677-af7a-fc89bde635f7",
+    "data": [
+      {
+        "text": "book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d917083-b59d-424c-9382-962960531131",
+    "data": [
+      {
+        "text": "Reserve ",
+        "userDefined": false
+      },
+      {
+        "text": "Taj",
+        "alias": "hotel_name",
+        "meta": "@hotel_names",
+        "userDefined": true
+      },
+      {
+        "text": " this ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79b3dfe8-2c79-442c-ae3f-f075e79fb1e4",
+    "data": [
+      {
+        "text": "Book hotel ",
+        "userDefined": false
+      },
+      {
+        "text": "hyatt",
+        "alias": "hotel_name",
+        "meta": "@hotel_names",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc68d728-ef69-4474-8318-06cfb7eb9138",
+    "data": [
+      {
+        "text": "reserve hotel for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b8b5b65-6935-4b17-add8-1b028582bf00",
+    "data": [
+      {
+        "text": "reserve hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "goa",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a75dbc6c-1a19-4f2f-b933-1a7e49c9240d",
+    "data": [
+      {
+        "text": "reserve hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1b3cfec-270d-46e1-a660-6589d6461300",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "chennai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "424e5ab4-93d4-4566-bd0a-631701df1811",
+    "data": [
+      {
+        "text": "hotel on ",
+        "userDefined": false
+      },
+      {
+        "text": "tuesday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4483d8ca-78fc-4ff2-99fb-cce568cd865e",
+    "data": [
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " book hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0beacefa-dccd-4991-93fc-854be5117595",
+    "data": [
+      {
+        "text": "book a hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "894868b5-ac85-4204-b220-1281a7f0cccd",
+    "data": [
+      {
+        "text": "book hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f132e924-03a7-4faf-bc56-2860eca9f159",
+    "data": [
+      {
+        "text": "hotel ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "Patna",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61db159c-a083-40e8-b849-15951fce88bc",
+    "data": [
+      {
+        "text": "Book a hotel ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d6b5a5c-3814-4404-838d-c1e1d00f4aa9",
+    "data": [
+      {
+        "text": "Book a hotel ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
